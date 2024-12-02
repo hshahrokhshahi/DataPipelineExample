@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2024-11-26T10:00:00Z",
+        "customer_info": { "name": "Alice Johnson", "email": "alice.johnson@example.com" },
+        "purchase_history": [
+            { "product_id": "A123", "product_name": "Headphones", "price": 99.99 },
+            { "product_id": "B456", "product_name": "Phone Case", "price": 19.99 }
+        ],
+        "comments": "Headphones are great, but delivery was slow."
+    },
+    {
+        "id": 2,
+        "timestamp": "2024-11-25T15:30:00Z",
+        "customer_info": { "name": "Bob Smith", "email": "bob.smith@example.com" },
+        "purchase_history": [
+            { "product_id": "C789", "product_name": "Gaming Laptop", "price": 1299.99 }
+        ],
+        "comments": "Laptop is excellent, but packaging was damaged."
+    }
+]
